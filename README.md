@@ -28,7 +28,7 @@ If you do not provide an RC number with the `!find` command, the bot will send a
 
 ## **Credits**
 
-This script was created by [@im-udittt] . It uses the following libraries:
+This script was created by [https://instagram.com/im_udittt] . It uses the following libraries:
 
 - discord
 - dotenv
