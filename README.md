@@ -16,7 +16,7 @@ This Python script creates a Discord bot that allows users to query the Indian v
     TOKEN=<discord_token>
     ```
 
-4. Replace `<your_task_id>`, `<your_group_id>`, `<your_api_key>`, and `<your_api_host>` with your own values obtained from the RapidAPI service.
+4. Replace `<your_task_id>`, `<your_group_id>`, `<your_api_key>`, and `<your_api_host>` with your own values obtained from the https://rapidapi.com/idfy-idfy-default/api/vehicle-rc-verification-advanced/.
 5. Run the script by running `python bot.py`.
 6. Invite the bot to your Discord server and use the `!find` command to query vehicle details by RC number.
 
